@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "business-card-app",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../Desktop/assets"
+		}
+	],
+	"settings": {}
+}
