@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./Footer.module.css";
-import twitterLogo from "../assets/Twitter-logo.png";
 import githubLogo from "../assets/Github-logo.png";
 
 export default function Footer() {
