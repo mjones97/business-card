@@ -10,11 +10,11 @@ export default function Footer() {
           target="_blank"
           rel="noopener noreferrer"
           className={styles.links}
-          href="https://github.com/tashasyarifah"
+          href="https://github.com/mjones97"
         >
           <img
             src={githubLogo}
-            alt="Click to open Tasha's GitHub"
+            alt="Click to open Malik's GitHub"
             className={styles.socialIcons}
           />
         </a>
