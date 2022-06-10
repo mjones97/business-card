@@ -11,7 +11,7 @@ export default function Info() {
         <img
           className={styles.avatar}
           src={ProfilePicture}
-          alt="Tasha Syarifah"
+          alt="Malik Jones"
         />
       </header>
       <div className={styles.bio}>
