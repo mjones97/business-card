@@ -19,18 +19,6 @@ export default function Footer() {
             className={styles.socialIcons}
           />
         </a>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          className={styles.links}
-          href="https://twitter.com/tashasyarifah_"
-        >
-          <img
-            src={twitterLogo}
-            alt="Click to open Tasha's Twitter"
-            className={styles.socialIcons}
-          />
-        </a>
       </div>
     </footer>
   );
